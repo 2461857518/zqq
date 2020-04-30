@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://2461857518:988588qian@github.com/2461857518/zqq.git
+	fetch = +refs/heads/*:refs/remotes/zqq/*
